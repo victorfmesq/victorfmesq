@@ -3,10 +3,27 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorfmesq.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20[Nome%20do%20Projeto]&body=Olá%20Victor%2C%0A%0AEstou%20entrando%20em%20contato%20através%20do%20GitHub%20sobre%20o%20projeto%20[Nome%20do%20Projeto].%0A%0A[Por%20favor%2C%20insira%20sua%20mensagem%20aqui]%0A%0AAtenciosamente%2C%0A[Seu%20Nome]%0A[Seu%20Contato])
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfmesq/)
 
-<!-- Esconder imagem escura quando visualizando no modo claro -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark#gh-light-mode-only)
-<!-- Esconder imagem clara quando visualizando no modo escuro -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue#gh-dark-mode-only)
+<script>
+    const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const lightModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
+    
+    const githubStatsImage = document.getElementById('github-stats-image');
+
+    const setTheme = () => {
+        if (darkModeMediaQuery.matches) {
+            githubStatsImage.src = 'https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark';
+        } else if (lightModeMediaQuery.matches) {
+            githubStatsImage.src = 'https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue';
+        }
+    };
+
+    setTheme();
+
+    darkModeMediaQuery.addListener(setTheme);
+    lightModeMediaQuery.addListener(setTheme);
+</script>
+
+<img id="github-stats-image" src="" alt="victorfmesq's GitHub stats">
 
 <div style="display: inline_block">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
