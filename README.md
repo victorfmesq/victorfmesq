@@ -3,9 +3,6 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorfmesq.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20[Nome%20do%20Projeto]&body=Olá%20Victor%2C%0A%0AEstou%20entrando%20em%20contato%20através%20do%20GitHub%20sobre%20o%20projeto%20[Nome%20do%20Projeto].%0A%0A[Por%20favor%2C%20insira%20sua%20mensagem%20aqui]%0A%0AAtenciosamente%2C%0A[Seu%20Nome]%0A[Seu%20Contato])
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfmesq/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 <!-- Esconder imagem escura quando visualizando no modo claro -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark#gh-light-mode-only)
 <!-- Esconder imagem clara quando visualizando no modo escuro -->
