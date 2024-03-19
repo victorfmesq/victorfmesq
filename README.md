@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfmesq/)
 
 ![victorfmesq's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfmesq&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfmesq&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,CSS,GLSL&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfmesq&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,CSS,GLSL&layout=compact&theme=vue-dark)
 
 ## Tecnologias que uso no meu dia
 
